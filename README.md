@@ -20,4 +20,16 @@ Visualize the data to provide actionable insights."
 Post_Type: Type of the post (e.g., Post_Date,Post_Subtype,Post_Type).
 Likes: Number of likes on the post.
 Comments: Number of comments on the post.
-Timestamp: Date and time when the post was made."
+Timestamp: Year and Month and Day when the post was made"
+
+
+"newsfeed_project_1_newsfeed_project_1.csv"
+This contains about the Likes, comments,Post subtypes,Post Types
+Number of comments, number of Likes, Number of Post, Date
+
+newsfeed_project_1_newsfeed_project_2.csv
+
+This contains about the user data i.e{Active users count,Commented Count,Liked Count,Posted Count,Visited_Count}
+
+
+
